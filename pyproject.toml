@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zollo"
+version = "0.1.0"
+description = "Hybrid bundler for Python and Node.js projects"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Isaiah Jones", email = "babyyodacutefry@hugg.store" }
+]
+keywords = ["bundler", "python", "nodejs", "hybrid"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+# Optional project URLs
+urls = { 
+    "Homepage" = "https://github.com/yourusername/zollo", 
+    "Repository" = "https://github.com/yourusername/zollo" 
+}
+
+[tool.setuptools.packages.find]
+include = ["zollo"]
+exclude = ["py*", "node*"]
+
+[project.scripts]
+zollo = "zollo.cli:main"

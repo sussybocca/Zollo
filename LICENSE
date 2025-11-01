@@ -1,0 +1,11 @@
+
+---
+
+## 2️⃣ `zollo.config.json`
+
+```json
+{
+  "name": "my_zollo_project",
+  "output": ".zollo_build",
+  "hidden": true
+}

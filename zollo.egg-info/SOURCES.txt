@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+zollo/__init__.py
+zollo/bundler.py
+zollo/cli.py
+zollo/config.py
+zollo/constants.py
+zollo/uitils.py
+zollo.egg-info/PKG-INFO
+zollo.egg-info/SOURCES.txt
+zollo.egg-info/dependency_links.txt
+zollo.egg-info/entry_points.txt
+zollo.egg-info/top_level.txt

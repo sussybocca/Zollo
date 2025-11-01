@@ -1,0 +1,2 @@
+[console_scripts]
+zollo = zollo.cli:main
