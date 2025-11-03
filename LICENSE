@@ -1,11 +1,28 @@
+# Zollo License Agreement (Custom)
+
+**Effective Date:** [Insert date]  
+**Copyright:** [Your Name or Company Name]
+
+## 1. Personal Use and Local Distribution
+You are permitted to:  
+- Use this software for personal, educational, or development purposes.  
+- Distribute this software **locally** (e.g., sharing with colleagues or on your own devices) **without modifying any files**.  
+
+## 2. Restrictions
+You may **not**:  
+- Modify, adapt, or create derivative works of any files in this repository without explicit permission from the developers.  
+- Distribute any modified files or versions of this software publicly or commercially without approval.  
+- Share the encrypted dev-only resources (`Zollo_dev-release.2.7z`) or any sensitive assets without prior authorization.  
+
+## 3. Permission Requests
+To request permission to modify files or redistribute the software:  
+- Email the **business account**: `babyyodacutefry@hugg.store`  
+- If no response is received within 4 weeks, email the **primary account**: `babyyodacutefry@gmail.com`  
+
+## 4. Disclaimer
+- This software is provided "as-is" without warranty of any kind.  
+- The developers are not liable for any damages or issues arising from the use of this software.  
 
 ---
 
-## 2️⃣ `zollo.config.json`
-
-```json
-{
-  "name": "my_zollo_project",
-  "output": ".zollo_build",
-  "hidden": true
-}
+**Summary:** Personal use and local distribution are allowed **as long as you do not modify files or redistribute the product**. For any changes, you must contact the emails above for approval.
